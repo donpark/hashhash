@@ -1,6 +1,6 @@
 {
   "name": "hashhash",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rewrites single line CoffeeScript comments beginning with double hashes as block comments",
   "main": "lib/hashhash.js",
   "bin" : { "hashhash" : "./cli.js" },
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:donpark/hashhash.git"
+    "url": "git://github.com/donpark/hashhash.git"
   },
   "author": "Don Park <donpark@docuverse.com>",
   "homepage": "https://github.com/donpark/hashhash",
