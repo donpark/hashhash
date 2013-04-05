@@ -1,0 +1,13 @@
+{
+  "name": "hashhash",
+  "version": "0.1.0",
+  "description": "Rewrites single line CoffeeScript comments beginning with double hashes as block comments",
+  "main": "lib/hashhash.js",
+  "bin" : { "hashhash" : "./cli.js" },
+  "scripts": {
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
